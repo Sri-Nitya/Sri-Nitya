@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri Nitya</h1>
+
 - 🔭 I’m currently working on **Health Insights App**
 
 - 🌱 I'm a graduate of IIIT Sri City with a B.Tech in Computer Science and Engineering.
